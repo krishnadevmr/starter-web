@@ -6,7 +6,8 @@ Only WD change this is
 ## Purpose
 
 Sample website with plenty of files for demos.
-Just added for rebase check
+Just added for rebase check,
+more changes from myfetaure branch too
 
 ## How to Contribute
 
