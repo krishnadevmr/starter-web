@@ -5,7 +5,8 @@ Only WD change this is
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos.
+Just added for rebase check
 
 ## How to Contribute
 
